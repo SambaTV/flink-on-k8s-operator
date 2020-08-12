@@ -18,7 +18,7 @@ entries:
     created: "2020-08-12T10:08:07.860151+02:00"
     description: A Helm chart for flink on Kubernetes operator
     digest: 2192ca4dc248b996955978d49d23d3f8034b7e19b7bfd35f51ab0de59af08bc1
-    home: https://github.com/GoogleCloudPlatform/flink-on-k8s-operator
+    home: https://sambatv.github.io/flink-on-k8s-operator
     keywords:
     - flink
     name: flink-operator
