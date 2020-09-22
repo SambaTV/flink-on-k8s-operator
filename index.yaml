@@ -35,6 +35,6 @@ entries:
       - flink
     name: flink-operator
     urls:
-      - https://github.com/SambaTV/flink-on-k8s-operator/charts/flink-operator-0.2.0-1.tgz
+      - https://sambatv.github.io/flink-on-k8s-operator/charts/flink-operator-0.2.0-1.tgz
     version: 0.2.0-1
 generated: "2020-09-22T10:25:07.857415+02:00"
