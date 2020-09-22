@@ -25,4 +25,16 @@ entries:
     urls:
       - https://github.com/SambaTV/flink-on-k8s-operator/releases/download/flink-operator-0.1.1-1/flink-operator-0.1.1-1.tgz
     version: 0.1.1-1
-generated: "2020-08-12T10:25:07.857415+02:00"
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-09-22T10:08:07.860151+02:00"
+    description: A Helm chart for flink on Kubernetes operator
+    digest: 2192ca4dc248b996955978d49d23d3f8034b7e19b7bfd35f51ab0de59af08bc1
+    home: https://sambatv.github.io/flink-on-k8s-operator
+    keywords:
+      - flink
+    name: flink-operator
+    urls:
+      - https://github.com/SambaTV/flink-on-k8s-operator/charts/flink-operator-0.2.0-1.tgz
+    version: 0.2.0-1
+generated: "2020-09-22T10:25:07.857415+02:00"
